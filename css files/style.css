@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: 'Roboto' sans-serif;
+    min-height: 320px;
 }
 .container{
     background-color: rgba(195, 209, 209, 0.966);
